@@ -1,5 +1,7 @@
 # BlazorGantt OData Adaptor Sample
 
+The [Blazor Gantt Chart](https://www.syncfusion.com/blazor-components/blazor-gantt-chart?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) is a project planning and management tool that provides a Microsoft Project-like interface to display and manage hierarchical tasks with timeline details. 
+
 This repository contains a sample Blazor application that demonstrates how to retrieve data from a RESTful service and bind it to the Syncfusion Blazor Gantt Chart using the [ODataV4Adaptor](https://help.syncfusion.com/cr/blazor/Syncfusion.Blazor.Data.ODataV4Adaptor.html) of [SfDataManager](https://help.syncfusion.com/cr/blazor/Syncfusion.Blazor.Data.SfDataManager.html) component. The sample also illustrates how **CRUD operations** are performed through an [OData V4 service](https://docs.oasis-open.org/odata/odata/v4.0/errata03/os/complete/part1-protocol/odata-v4.0-errata03-os-part1-protocol-complete.html#_Toc453752197).
 
 ## Project overview
@@ -41,6 +43,16 @@ Before running the sample, ensure that the path of the `OData.mdf` file is corre
 
 For additional details, refer to the documentation:  
 https://blazor.syncfusion.com/documentation/gantt-chart/data-binding#odatav4-adaptor
+
+## Related links
+[Learn More about Blazor Gantt Chart](https://www.syncfusion.com/blazor-components/blazor-gantt-chart?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) <br/><br/>
+[Download Free Trial](https://www.syncfusion.com/downloads?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) <br/><br/>
+[Pricing](https://www.syncfusion.com/sales/products/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) <br/><br/>
+[Documentation](https://blazor.syncfusion.com/documentation/gantt-chart/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) <br/><br/>
+[Online Examples](https://blazor.syncfusion.com/demos/gantt-chart/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) <br/><br/>
+[Watch a How-to Video](https://www.syncfusion.com/tutorial-videos/blazor/gantt-chart?title=create-a-gantt-chart-component-in-a-blazor-webassembly) <br/><br/>
+[Community Forums](https://www.syncfusion.com/forums/blazor-components/gantt-chart?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) <br/><br/>
+[Suggest a feature](https://www.syncfusion.com/feedback/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples)
 
 ## Syncfusion License
 
